@@ -1,0 +1,304 @@
+# depslib dependency file v1.0
+1713104223 source:d:\katgura\btl-sdl2\katgura\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"GameUtils.h"
+	"Button.h"
+	<bits/stdc++.h>
+
+1713011485 source:d:\katgura\btl-sdl2\katgura\commonfunc.cpp
+	"CommonFunc.h"
+
+1713082804 d:\katgura\btl-sdl2\katgura\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+
+1713103849 source:d:\katgura\btl-sdl2\katgura\baseobject.cpp
+	"BaseObject.h"
+
+1713103604 d:\katgura\btl-sdl2\katgura\baseobject.h
+	"CommonFunc.h"
+
+1713103630 source:d:\katgura\btl-sdl2\katgura\game_map.cpp
+	"game_map.h"
+
+1712602046 d:\katgura\btl-sdl2\katgura\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713082599 d:\katgura\btl-sdl2\katgura\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713104260 source:d:\katgura\btl-sdl2\katgura\mainobject.cpp
+	"MainObject.h"
+
+1713103604 source:d:\katgura\btl-sdl2\katgura\button.cpp
+	"Button.h"
+
+1712861713 d:\katgura\btl-sdl2\katgura\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713104071 source:d:\katgura\btl-sdl2\katgura\gameutils.cpp
+	"GameUtils.h"
+
+1713066600 d:\katgura\btl-sdl2\katgura\gameutils.h
+	"BaseObject.h"
+	"Button.h"
+	"MainObject.h"
+	"Enemy.h"
+
+1713025659 source:d:\katgura\btl-sdl2\katgura\enemy.cpp
+	"Enemy.h"
+
+1713025671 d:\katgura\btl-sdl2\katgura\enemy.h
+	"BaseObject.h"
+
+1713103849 source:d:\nga\katgura\btl-sdl2\katgura\baseobject.cpp
+	"BaseObject.h"
+
+1713103604 d:\nga\katgura\btl-sdl2\katgura\baseobject.h
+	"CommonFunc.h"
+
+1713082804 d:\nga\katgura\btl-sdl2\katgura\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+
+1713103604 source:d:\nga\katgura\btl-sdl2\katgura\button.cpp
+	"Button.h"
+
+1712861713 d:\nga\katgura\btl-sdl2\katgura\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713011485 source:d:\nga\katgura\btl-sdl2\katgura\commonfunc.cpp
+	"CommonFunc.h"
+
+1713025659 source:d:\nga\katgura\btl-sdl2\katgura\enemy.cpp
+	"Enemy.h"
+
+1713025671 d:\nga\katgura\btl-sdl2\katgura\enemy.h
+	"BaseObject.h"
+
+1713103630 source:d:\nga\katgura\btl-sdl2\katgura\game_map.cpp
+	"game_map.h"
+
+1712602046 d:\nga\katgura\btl-sdl2\katgura\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713104071 source:d:\nga\katgura\btl-sdl2\katgura\gameutils.cpp
+	"GameUtils.h"
+
+1713066600 d:\nga\katgura\btl-sdl2\katgura\gameutils.h
+	"BaseObject.h"
+	"Button.h"
+	"MainObject.h"
+	"Enemy.h"
+
+1713082599 d:\nga\katgura\btl-sdl2\katgura\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713104260 source:d:\nga\katgura\btl-sdl2\katgura\mainobject.cpp
+	"MainObject.h"
+
+1713105878 source:d:\nga\katgura\btl-sdl2\katgura\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"GameUtils.h"
+	"Button.h"
+	<bits/stdc++.h>
+
+1713103849 source:d:\nga\menu\katgura\baseobject.cpp
+	"BaseObject.h"
+
+1713103604 d:\nga\menu\katgura\baseobject.h
+	"CommonFunc.h"
+
+1713082804 d:\nga\menu\katgura\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+
+1713103604 source:d:\nga\menu\katgura\button.cpp
+	"Button.h"
+
+1712861713 d:\nga\menu\katgura\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713011485 source:d:\nga\menu\katgura\commonfunc.cpp
+	"CommonFunc.h"
+
+1713025659 source:d:\nga\menu\katgura\enemy.cpp
+	"Enemy.h"
+
+1713025671 d:\nga\menu\katgura\enemy.h
+	"BaseObject.h"
+
+1713104071 source:d:\nga\menu\katgura\gameutils.cpp
+	"GameUtils.h"
+
+1713066600 d:\nga\menu\katgura\gameutils.h
+	"BaseObject.h"
+	"Button.h"
+	"MainObject.h"
+	"Enemy.h"
+
+1713082599 d:\nga\menu\katgura\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713105954 source:d:\nga\menu\katgura\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"game_map.h"
+	"MainObject.h"
+	"GameUtils.h"
+	"Button.h"
+	<bits/stdc++.h>
+
+1712602046 d:\nga\menu\katgura\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713104260 source:d:\nga\menu\katgura\mainobject.cpp
+	"MainObject.h"
+
+1713211482 source:d:\sdl\menu\katgura\baseobject.cpp
+	"BaseObject.h"
+
+1713211365 d:\sdl\menu\katgura\baseobject.h
+	"CommonFunc.h"
+
+1713211365 d:\sdl\menu\katgura\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+
+1713211365 source:d:\sdl\menu\katgura\button.cpp
+	"Button.h"
+
+1713211365 d:\sdl\menu\katgura\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713211365 source:d:\sdl\menu\katgura\commonfunc.cpp
+	"CommonFunc.h"
+
+1713211365 source:d:\sdl\menu\katgura\enemy.cpp
+	"Enemy.h"
+
+1713211365 d:\sdl\menu\katgura\enemy.h
+	"BaseObject.h"
+
+1713417003 source:d:\sdl\menu\katgura\gameutils.cpp
+	"GameUtils.h"
+
+1713417305 d:\sdl\menu\katgura\gameutils.h
+	"BaseObject.h"
+	"Button.h"
+
+1713211365 d:\sdl\menu\katgura\mainobject.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713211365 source:d:\sdl\menu\katgura\mainobject.cpp
+	"MainObject.h"
+
+1713417254 source:d:\sdl\menu\katgura\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"GameUtils.h"
+	"Button.h"
+	<bits/stdc++.h>
+
+1713211365 d:\sdl\menu\katgura\game_map.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713211482 source:d:\menu-game\katgura\baseobject.cpp
+	"BaseObject.h"
+
+1713211365 d:\menu-game\katgura\baseobject.h
+	"CommonFunc.h"
+
+1713211365 d:\menu-game\katgura\commonfunc.h
+	<windows.h>
+	<string>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_mixer.h>
+	<SDL_ttf.h>
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<ctime>
+
+1713211365 source:d:\menu-game\katgura\button.cpp
+	"Button.h"
+
+1713211365 d:\menu-game\katgura\button.h
+	"CommonFunc.h"
+	"BaseObject.h"
+
+1713211365 source:d:\menu-game\katgura\commonfunc.cpp
+	"CommonFunc.h"
+
+1713417003 source:d:\menu-game\katgura\gameutils.cpp
+	"GameUtils.h"
+
+1713417305 d:\menu-game\katgura\gameutils.h
+	"BaseObject.h"
+	"Button.h"
+
+1713417254 source:d:\menu-game\katgura\main.cpp
+	"CommonFunc.h"
+	"BaseObject.h"
+	"MainObject.h"
+	"GameUtils.h"
+	"Button.h"
+	<bits/stdc++.h>
+
