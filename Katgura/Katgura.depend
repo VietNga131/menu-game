@@ -258,13 +258,13 @@
 	"CommonFunc.h"
 	"BaseObject.h"
 
-1713211482 source:d:\menu-game\katgura\baseobject.cpp
+1713417917 source:d:\menu-game\katgura\baseobject.cpp
 	"BaseObject.h"
 
-1713211365 d:\menu-game\katgura\baseobject.h
+1713417917 d:\menu-game\katgura\baseobject.h
 	"CommonFunc.h"
 
-1713211365 d:\menu-game\katgura\commonfunc.h
+1713418062 d:\menu-game\katgura\commonfunc.h
 	<windows.h>
 	<string>
 	<SDL.h>
@@ -277,7 +277,7 @@
 	<vector>
 	<ctime>
 
-1713211365 source:d:\menu-game\katgura\button.cpp
+1713417917 source:d:\menu-game\katgura\button.cpp
 	"Button.h"
 
 1713211365 d:\menu-game\katgura\button.h
@@ -287,17 +287,16 @@
 1713211365 source:d:\menu-game\katgura\commonfunc.cpp
 	"CommonFunc.h"
 
-1713417003 source:d:\menu-game\katgura\gameutils.cpp
+1713418033 source:d:\menu-game\katgura\gameutils.cpp
 	"GameUtils.h"
 
 1713417305 d:\menu-game\katgura\gameutils.h
 	"BaseObject.h"
 	"Button.h"
 
-1713417254 source:d:\menu-game\katgura\main.cpp
+1713417925 source:d:\menu-game\katgura\main.cpp
 	"CommonFunc.h"
 	"BaseObject.h"
-	"MainObject.h"
 	"GameUtils.h"
 	"Button.h"
 	<bits/stdc++.h>

@@ -3,10 +3,7 @@
 BaseObject::BaseObject()
 {
     p_object_ = NULL;
-//    rect_.x = 0;
-//    rect_.y = 0;
-//    rect_.w = 0;
-//    rect_.h = 0;
+
 }
 
 BaseObject::~BaseObject()
@@ -44,28 +41,16 @@ bool BaseObject::LoadImg(std::string path, SDL_Renderer* screen)
 
 void BaseObject::Render(int x, int y, SDL_Renderer* des, const SDL_Rect* clip )
 {
-    /*SDL_RendererFlip flip = SDL_FLIP_NONE;
-    SDL_Rect srcRect;
-    SDL_Rect destRect;
-    srcRect.x = 0;
-    srcRect.y = 0;
-    srcRect.w = rect_.w;
-    destRect.w = rect_.w;
-    srcRect.h = rect_.h;
-    destRect.h = rect_.h;
-    destRect.x = rect_.x;
-    destRect.y = rect_.y;
-    SDL_RenderCopyEx(des, p_object_, &srcRect,
-                     &destRect, 0, 0, flip);*/
+
     SDL_Rect renderquad = { x, y, mWidth, mHeight };
 
     if (clip != nullptr)
 	{
-        //std::cout<<1<<" ";
+
 		renderquad.w = clip->w;
 		renderquad.h = clip->h;
 	}
-	  //std::cout<<renderquad.x<<" "<<renderquad.y<<"\n";
+
     SDL_RenderCopy(des, p_object_, clip, &renderquad);
 }
 
@@ -75,8 +60,7 @@ void BaseObject::Free()
     {
 
         p_object_ = NULL;
-//        rect_.w = 0;
-//        rect_.h = 0;
+
     }
 }
 

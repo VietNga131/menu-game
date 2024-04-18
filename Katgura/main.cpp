@@ -2,7 +2,7 @@
 #include "CommonFunc.h"
 #include "BaseObject.h"
 
-#include "MainObject.h"
+
 #include "GameUtils.h"
 #include "Button.h"
 #include<bits/stdc++.h>
@@ -196,12 +196,9 @@ int main(int argc, char* argv[])
                 return 0;
             }
         }
-//        SDL_RenderClear(g_screen);
+
         gMenuTexture.Render(0,0,g_screen);
-        //nut bay r
-        //SDL_Rect rect = {100, 100, 200, 150};
-    //SDL_RenderFillRect(g_screen, &rect);
-    //std::cout<<1;
+
         SDL_Rect* currentClip_Play = &gPlayButton[PlayButton.currentSprite];
 
         PlayButton.Render(currentClip_Play, g_screen, gPlayButtonTexture);

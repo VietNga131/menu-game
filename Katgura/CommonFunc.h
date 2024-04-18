@@ -97,15 +97,6 @@ const int SCORE_POSY = 20;
 const int HIGH_SCORE_POSX = 830;
 const int HIGH_SCORE_POSY = 80;
 
-const double LAYER_1_SPEED = 0.0;
-const double LAYER_2_SPEED = 0.25;
-const double LAYER_3_SPEED = 0.5;
-const double LAYER_4_SPEED = 0.75;
-const double LAYER_5_SPEED = 1.0;
-const double LAYER_6_SPEED = 1.25;
-const double LAYER_7_SPEED = 1.5;
-const double LAYER_8_SPEED = 1.75;
-const double LAYER_9_SPEED = 2.0;
 
 const int RUNNING_FRAMES = 8;
 const int FLYING_FRAMES = 5;
