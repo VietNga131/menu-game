@@ -245,9 +245,7 @@ int main(int argc, char* argv[])
                 SDL_RenderPresent(g_screen);
 
             }
-            //di đến đoạn bấm nút như hqua ik
-            //đoạn hiện nút hay render v
-            //rendẻ trong main cơ
+
 
             if (!Play_Again)
             {
@@ -259,7 +257,7 @@ int main(int argc, char* argv[])
         close();
         return 0;
 }
-//ưtf nay xoa nham ngoac nao a khum bt nx
+
     bool LoadMedia()
     {
         bool success = true;
